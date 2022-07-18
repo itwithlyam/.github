@@ -1,5 +1,5 @@
 # IWL-Tech
-**Welcome to the IWL-Tech profile. This is the official organisation for my business IT with Lyam. I enjoy emulating (recreating on a computer) different things, for example a CPU and a nuclear reactor. I also like large projects. My most common programming language that I use in these projects is JavaScript (NodeJS).**
+**Welcome to the IWL-Tech profile. This is the official organisation for my business IT with Lyam. I enjoy emulating (recreating on a computer) different things, for example a CPU and a nuclear reactor. I also like large projects. My most common programming language that I use in these projects is JavaScript (NodeJS). Also, please note I can only work on one repository at a time so there might be gaps in changes across my profile.**
 
 ## My projects (https://github.com/IWL-Tech/[project])
 
